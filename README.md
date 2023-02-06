@@ -10,8 +10,11 @@
 
 Некоторые материалы:
 График распределения контрольной группы: 
+
 ![image](https://user-images.githubusercontent.com/50587728/217047582-9bba8980-5646-4410-8b70-3f9064241a55.png)
 
+
 График распределения тестовой группы:
+
 ![image](https://user-images.githubusercontent.com/50587728/217047846-25f080e8-2c6c-472b-91b1-64f4ff328044.png)
 
